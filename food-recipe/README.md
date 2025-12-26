@@ -1,5 +1,5 @@
 #live preview
-https://foodmakerhub.netlify.app
+https://foodmakershub.netlify.app
 
 # React + Vite
 
