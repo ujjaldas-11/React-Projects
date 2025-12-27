@@ -59,7 +59,7 @@ Deployed with **Netlify** for seamless performance.
 ## Local Setup
 
   1. Clone the repo:
-     git clone https://github.com/ujjaldas-11/recipehub.git
+     git clone https://github.com/ujjaldas-11/React-Projects.git
   2. Install dependencies:
       npm install
   3. run locally:
